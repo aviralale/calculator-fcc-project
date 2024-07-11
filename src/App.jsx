@@ -28,23 +28,23 @@ function App() {
           <h1 className="credits digital text-7xl ">AVIRAL</h1>
           <ul className="flex gap-2 digital">
             <li>
-              <a href="" target="blank">
+              <a href="https://www.linkedin.com/in/aviral-ale/" target="blank">
                 Li.
               </a>
             </li>
             <li>
-              <a href="" target="blank">
+              <a href="https://www.instagram.com/aviral.who_/" target="blank">
                 Insta.
               </a>
             </li>
             <li>
-              <a href="" target="blank">
+              <a href="https://github.com/dedyspooky" target="blank">
                 Github.
               </a>
             </li>
             <li>
-              <a href="" target="blank">
-                Mail.
+              <a href="https://www.abiralale.com.np/" target="blank">
+                Portfolio.
               </a>
             </li>
           </ul>
